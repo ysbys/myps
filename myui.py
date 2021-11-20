@@ -4,7 +4,7 @@
 from tkinter import *
 import hashlib
 import time
-
+# hladd
 LOG_LINE_NUM = 0
 
 class MY_GUI():
